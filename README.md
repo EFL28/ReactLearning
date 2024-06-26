@@ -1,6 +1,6 @@
 # React Learning
 
-Este repositorio contiene una colección de programas escritos en C++. Los programas abarcan una variedad de temas y pueden ser útiles para aprender C++, practicar habilidades de programación o como referencia para proyectos futuros.
+Este repositorio contiene una colección de proyectos escritos en React. Los proyectos abarcan una variedad de temas y pueden ser útiles para aprender React, practicar habilidades de programación o como referencia para proyectos futuros.
 
 ## Contenido
 
