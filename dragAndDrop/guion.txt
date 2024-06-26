@@ -1,0 +1,34 @@
+opcion 1
+	if opcion 1 = cueva -> poca relevancia (hay un derrumbe bloquea la entrada y tiene que seguir explorando)
+	if opcion 2 = castillo-> poca relevancia (la entrada se cierra nada mas entrar y tiene que seguir explorando)
+	if opcion 3 = bosque-> poca relevancia (empieza a explorar,se pierde y tiene que seguir buscando)
+
+Mientras explora
+opcion 2
+	if opcion 1 = espada -> relevante (matará al primer monstruo con ella)
+	if opcion 2 = arco y flechas-> relevante (eliminará un grupito de monstruitos con las flechas)
+	if opcion 3 = bastón magico-> relevante (lanzará diversos hechizos/rayos y matará al monstruo)
+
+Una vez consiguió ganar las peleas llego al final de la estancia
+(final de la cueva, no hay mas puertas en el castillo, se da cuenta de que ya ha pasado por esa parte del bosque)
+de repente oye un ruido muy fuerte cerca suyo, como una persona llorando
+opcion 3
+	if opcion 1 = va corriendo hacia el ruido -> poco relevante (cuando llega al ruido no ve nada)
+	if opcion 2 = se acerca sigilosamente por si acaso -> relevante (cuando llega al ruido no ve nada)
+	if opcion 3 = alza la voz para ver si le oye-> relevante (no le contesta y va hacia el ruido, cuando llega al ruido no ve nada)
+
+--------- Siguiente parte ---------
+Mientras busca/piensa de donde viene el ruido
+opcion 1
+	if opcion 1 = gran destello -> poca relevancia (no ve nada y cuando abre los ojos está en?)
+	if opcion 2 = gran temblor -> poca relevancia (pierde el equilibrio, se golpea la cabeza, cuando se recupera está en?)
+	if opcion 3 = se vuelve todo oscuro -> poca relevancia (no ve nada, mientras nota que al su alrededor estan pasando cosas)
+
+Despues de todo esto, se da cuenta que esta en la entrada (del bosque/cueva/castillo) pero nota que tiene a su lado una mochila
+la abre y ve un papel/pergamino lo empieza a leer
+opcion 2
+	if opcion 1 = pone que nunca vuelva a entrar -> poca relevancia ()
+	if opcion 2 = pone que si vuelve -> poca relevancia ()
+	if opcion 3 = se vuelve todo oscuro -> poca relevancia ()
+
+opcion 3

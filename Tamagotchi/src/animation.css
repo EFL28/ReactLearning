@@ -1,0 +1,62 @@
+/* @keyframes eating-animation {
+  0% {
+    background-position: -32px 0px;
+  }
+
+  50% {
+    background-position: -67px 0;
+  }
+
+  100% {
+    background-position: -32px 0px;
+  }
+}
+
+@keyframes playing-animation {
+  0% {
+    background-position: 0 -60px;
+  }
+
+  25% {
+    background-position: -36px -60px;
+  }
+
+  50% {
+    background-position: -72px -60px;
+  }
+
+  75% {
+    background-position: -108px -60px;
+  }
+
+  100% {
+    background-position: 0 -60px;
+  }
+}
+
+@keyframes sleeping-animation {
+  0% {
+    background-position: -375px 0px;
+    transform: scale(1);
+  }
+
+  25% {
+    background-position: -375px 0px;
+    transform: scale(1.05);
+  }
+
+  50% {
+    background-position: -375px 0px;
+    transform: scale(1.1);
+  }
+
+  75% {
+    background-position: -375px 0px;
+    transform: scale(1.05);
+  }
+
+  100% {
+    background-position: -375px 0px;
+    transform: scale(1);
+  }
+} */
